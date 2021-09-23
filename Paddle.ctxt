@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Paddle
+comment0.text=\n\ Write\ a\ description\ of\ class\ HumanPaddle\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=color\ leftKey\ rightKey\ width\ height
+comment1.target=Paddle(greenfoot.Color,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ HumanPaddle\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ createImage()
+comment4.params=
+comment4.target=greenfoot.Color\ getColor()
+comment5.params=
+comment5.target=void\ hitByBall()
+numComments=6
